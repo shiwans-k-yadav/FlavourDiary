@@ -1,4 +1,4 @@
-# 🍲 RecipeTalk
+# 🍲 Flavour Diary
 
 A simple recipe search web app that fetches and displays recipes using TheMealDB API.
 
